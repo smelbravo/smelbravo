@@ -9,6 +9,7 @@
 
 *I build games, software, mods, and tools that make things better.*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://smelportfolioweb.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/smelbravo)
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://smel111.itch.io/)
 [![VostokMods](https://img.shields.io/badge/VostokMods-38475B?style=flat-square)](https://vostokmods.net/user/smel)
@@ -91,6 +92,8 @@ I've also worked on various games, academic projects, and game jams, including *
 
 🎮 **[Explore my games on itch.io](https://smel111.itch.io/)**
 
+🌐 **[Visit my personal portfolio](https://smelportfolioweb.netlify.app/)**
+
 ---
 
 ### 📊 GitHub Statistics
@@ -109,6 +112,7 @@ I've also worked on various games, academic projects, and game jams, including *
 
 ### 🌐 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://smelportfolioweb.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smelbravo)
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://smel111.itch.io/)
 [![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/smel_111)
