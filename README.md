@@ -7,7 +7,7 @@
 
 **Also known as Smel** 🇵🇹
 
-I build games, software, mods, and tools that make things better.
+*I build games, software, mods, and tools that make things better.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/smelbravo)
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://smel111.itch.io/)
@@ -30,9 +30,11 @@ I'm a developer from **Portugal** with a strong interest in game development, so
 - 💡 Interested in reverse engineering, game preservation, and exploring new technologies.
 - 🚀 Always learning, experimenting, and working on new projects.
 
+---
+
 ### 🛠️ Languages & Technologies
 
-**Programming**
+**💻 Programming & Web Development**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -43,13 +45,15 @@ I'm a developer from **Portugal** with a strong interest in game development, so
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Game Engines**
+*Basic experience with TypeScript.*
+
+**🎮 Game Engines**
 
 ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-8BC0D0?style=flat-square&logo=phaser&logoColor=black)
 
-**Tools**
+**🔧 Development Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -61,14 +65,14 @@ I'm a developer from **Portugal** with a strong interest in game development, so
 
 **🎮 Gaming & Modding**
 
+- **[CSR Launcher X](https://github.com/smelbravo/csr-launcher-x)**  
+  A launcher project for Counter-Strike: Restored.
+
 - **[Road to Vostok Save Editor](https://github.com/smelbravo/Road-to-Vostok-Save-Editor)**  
   A save editor for Road to Vostok.
 
 - **[Vostok Portuguese Translation](https://github.com/smelbravo/VostokTranslate_Resource_PT-PT)**  
   European Portuguese translation resources for Road to Vostok.
-
-- **[FIFA 14 Local FUT](https://github.com/smelbravo/FIFA-14-Local-FUT)**  
-  An experimental local FIFA Ultimate Team revival project.
 
 **💻 Software & Extensions**
 
@@ -89,7 +93,7 @@ I've also worked on various games, academic projects, and game jams, including *
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <div align="center">
 
@@ -102,6 +106,16 @@ I've also worked on various games, academic projects, and game jams, including *
 ---
 
 <div align="center">
+
+### 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smelbravo)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://smel111.itch.io/)
+[![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/smel_111)
+[![VostokMods](https://img.shields.io/badge/VostokMods-38475B?style=for-the-badge)](https://vostokmods.net/user/smel)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/smel_111)
+
+---
 
 **Always learning. Always building.**
 
