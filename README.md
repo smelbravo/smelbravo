@@ -23,7 +23,7 @@ I build games, software, mods, and tools that make things better.
 
 I'm a developer from **Portugal** with a strong interest in game development, software engineering, and modding.
 
-- 🎓 Studied **Video Game Development & Multimedia Applications** at the Polytechnic Institute of Setúbal.
+- 🎓 Currently studying **Video Game Development & Multimedia Applications** at the **Polytechnic University of Setúbal (Universidade Politécnica de Setúbal)**.
 - 💼 Former **Game Developer at TokenWised**, working with Godot, GDScript, and web-based games.
 - 🎮 Experience developing games with **Unity, Godot, and Phaser**.
 - 🛠️ I create mods, browser extensions, launchers, and utilities.
@@ -61,17 +61,14 @@ I'm a developer from **Portugal** with a strong interest in game development, so
 
 **🎮 Gaming & Modding**
 
-- **[ReStreet — FIFA Street PC Port](https://github.com/smelbravo/fifa-street-pc-port)**  
-  Bringing FIFA Street (2012) to PC with online multiplayer, friends, chat, rooms, and a custom launcher.
-
 - **[Road to Vostok Save Editor](https://github.com/smelbravo/Road-to-Vostok-Save-Editor)**  
   A save editor for Road to Vostok.
 
-- **[NX2Android](https://github.com/smelbravo/nx2android)**  
-  An experimental compatibility layer exploring Nintendo Switch game portability to Android.
-
 - **[Vostok Portuguese Translation](https://github.com/smelbravo/VostokTranslate_Resource_PT-PT)**  
   European Portuguese translation resources for Road to Vostok.
+
+- **[FIFA 14 Local FUT](https://github.com/smelbravo/FIFA-14-Local-FUT)**  
+  An experimental local FIFA Ultimate Team revival project.
 
 **💻 Software & Extensions**
 
