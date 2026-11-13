@@ -14,7 +14,7 @@
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://smel111.itch.io/)
 [![VostokMods](https://img.shields.io/badge/VostokMods-38475B?style=flat-square)](https://vostokmods.net/user/smel)
 [![Steam](https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/smel_111)
-[![Buy Me a Coffee](https://img.shields.io/badge/Support_Me-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/smel_111)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/smel_111)
 
 </div>
 
